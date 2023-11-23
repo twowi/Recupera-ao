@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+}
+
+.caixa{
+    background:  rgb(29, 126, 129);
+    width: 150px;
+    height: 30px;
+    border-radius: 50px;
+}
+
+h4{
+    color: rgb(42, 186, 190);
+    margin-top: 5px;
+}
+
+header{
+    background-color:rgb(133, 231, 235) ;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+
+}
+  
+img {
+    width: 100px;
+}
+
+h1{
+    color: rgb(29, 126, 129);
+    text-align: center;
+}
+
+h2{
+    color: rgb(29, 126, 129);
+}
+
+h3{
+    color: rgb(36, 164, 168);
+}
+
+footer{
+    background-color: rgb(133, 231, 235) ;
+}
